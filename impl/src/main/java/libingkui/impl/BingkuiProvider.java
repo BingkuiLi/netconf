@@ -26,6 +26,7 @@ public class BingkuiProvider {
      */
     public void init() {
         LOG.info("BingkuiProvider Session Initiated");
+        System.out.println("git test!");
     }
 
     /**
