@@ -1,0 +1,9 @@
+module bingkui {
+    yang-version 1;
+    namespace "urn:opendaylight:params:xml:ns:yang:bingkui";
+    prefix "bingkui";
+
+    revision "2015-01-05" {
+        description "Initial revision of bingkui model";
+    }
+}
